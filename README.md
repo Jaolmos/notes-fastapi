@@ -10,7 +10,7 @@ API REST CRUD de Notas desarrollada con FastAPI, SQLAlchemy y Pydantic. Sistema 
 - Soft delete para preservar datos
 
 ## 🛠️ Tecnologías Utilizadas
-- Python 3.x
+- Python 3.10+
 - FastAPI
 - SQLAlchemy
 - Pydantic
