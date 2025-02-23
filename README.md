@@ -1,5 +1,5 @@
 # Notes API 📝
-Una API REST desarrollada con FastAPI para gestionar notas personales, implementando operaciones CRUD completas y siguiendo las mejores prácticas de desarrollo.
+API REST CRUD de Notas desarrollada con FastAPI, SQLAlchemy y Pydantic. Sistema de gestión de notas personales implementando operaciones CRUD completas, migraciones con Alembic, tests automatizados y siguiendo las mejores prácticas de desarrollo.
 
 ## 🚀 Características
 - CRUD completo para notas
