@@ -1,7 +1,7 @@
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker, DeclarativeBase
 
-# Clase base moderna para nuestros modelos usando DeclarativeBase
+# Clase base para nuestros modelos usando DeclarativeBase
 class Base(DeclarativeBase):
     pass
 
